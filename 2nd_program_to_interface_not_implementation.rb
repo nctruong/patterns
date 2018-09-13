@@ -7,7 +7,7 @@ plane.fly(1000)
 
 # solution
 vehicle1 = Vehicle.new
-vehicle1.traval(100)
+vehicle1.travel(100)
 
 vehicle2 = Vehicle.new
-vehicle2.traval(100)
+vehicle2.travel(100)

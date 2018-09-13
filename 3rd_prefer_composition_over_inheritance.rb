@@ -16,7 +16,6 @@ class Car < Vehicle
 		stop_engine
 	end
 end
-
 # Solution
 class Engine
 	# All sorts of engine-related code...
